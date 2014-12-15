@@ -28,6 +28,7 @@
 </head>
 
 <body>
+<div id="outer">
 [%- IF title -%]<h1>[% title  %]</h1>[%- END -%]
 
 <div id="wrapper">
@@ -49,6 +50,7 @@
   | Running on <a href="http://www.freebsd.org">FreeBSD</a>
   </div>
 
+</div>
 </div>
 
 </body>
