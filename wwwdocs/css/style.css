@@ -1,20 +1,13 @@
 * {
-	margin: 0;
-	padding: 0;
-	border: 0;
 	vertical-align: baseline;
 	font-size: 100%;
 	font: inherit;
 }
+h1 {
+	margin: 0;
+}
 body {
 	line-height: 1;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
-body {
 	background-color: white;
 	margin: 0pt auto;
 	background: #e7e7e7 url(../img/background.png) 0 0 repeat;
@@ -25,10 +18,20 @@ body {
   color: #4d4d4d;
   padding: 0;
 }
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+table, th, td {
+   border: 1px solid black;
+}
 
 #outer {
   background: transparent url(../img/highlight.jpg) 90% 0 no-repeat;
   min-height: 595px;
+	margin: 0pt auto;
+	min-width: 850px;
+	width: 70%;
 }
 .inner {
   min-width: 220px;
@@ -37,13 +40,6 @@ body {
 #outer .inner img {
   max-width: 100%;
 }
-
-#outer {
-	margin: 0pt auto;
-	min-width: 850px;
-	width: 70%;
-}
-
 
 
 a {
