@@ -29,12 +29,12 @@
 
 <body>
 <div id="outer">
-[%- IF title -%]<h1>[% title  %]</h1>[%- END -%]
+[%- IF title -%]
 
 <div id="wrapper">
 
   <div id="header">
-    <h1>Our Perl Workshop</h1>
+    <h1>[% title  %]</h1>[%- END -%]
   </div>
 
   <div id="menu">
