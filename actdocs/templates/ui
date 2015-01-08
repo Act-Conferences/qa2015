@@ -28,8 +28,12 @@
 </head>
 
 <body>
+
 <div id="outer">
+<div id="berlin">
 <h1><a href="/qa2015">Perl QA Hackathon 2015</a></h1>
+<div class="footer">April 16-19 @ Berlin, Germany</div>
+</div>
 
 <div id="wrapper">
 
@@ -54,5 +58,8 @@
 </div>
 </div>
 
+<div id="footer">
+Skyline Image from <a href="http://andberlin.com/2012/10/22/the-berlin-skyline-at-night-the-view-from-the-neukolln-arcaden/">andberlin.com</a>
+</div>
 </body>
 </html>
