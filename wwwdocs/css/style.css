@@ -26,9 +26,9 @@ table, th, td {
    border: 1px solid #bbb;
 }
 #berlin {
-	background: transparent url(../img/berlin-skyline.jpg) 0 0 no-repeat;
-	height: 156px;
-	background-color: #1b1812;
+	background: transparent url(../img/berlin-fernsehturm.jpg) 0 0 no-repeat;
+	height: 139px;
+	background-color: #bce2fe;
 	border-radius: 15px;
 	position: relative;
 }
@@ -39,11 +39,11 @@ table, th, td {
 #berlin div.footer {
 	font-size: 120%;
 	position: absolute; bottom: 0px; right: 10px;
-	color: #aaa;
+	color: #777;
 }
 #berlin a {
-	color: white;
-	text-shadow: 0 1px 0 rgba(0, 255, 255, 0.8);
+	color: red;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
 }
 
 #outer {
