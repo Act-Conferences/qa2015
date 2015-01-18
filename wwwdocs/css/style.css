@@ -7,12 +7,11 @@ h1 {
 	margin: 0;
 }
 body {
-	line-height: 1;
+	line-height: 1.4;
 	background-color: white;
 	margin: 0pt auto;
 	background: #e7e7e7 url(../img/background.png) 0 0 repeat;
   font-size: 1em;
-  line-height: 1.5; 
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   color: #4d4d4d;
@@ -160,6 +159,7 @@ a {
 
 #menu h2 {
 	font-size: 110%;
+	margin: 8px 0px 3px 0px;
 }
 
 #menu li {
