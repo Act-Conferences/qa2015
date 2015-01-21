@@ -44,6 +44,7 @@
   <div id="menu">
   <h2><a href="/qa2015/sponsors.html">Sponsors</a></h2>
   <h2><a href="/qa2015/venue.html">Venue</a></h2>
+  <h2><a href="/qa2015/budget.html">Budget</a></h2>
     [% PROCESS menu %]
   </div>
 

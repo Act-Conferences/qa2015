@@ -21,9 +21,18 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+table th {
+	font-weight: bold;
+}
 table, th, td {
    border: 1px solid #bbb;
 }
+
+#budget th.estimate, #budget td.estimate {
+	font-style:italic;
+	color: #aaa;
+}
+
 #berlin {
 	background: transparent url(../img/berlin-fernsehturm.jpg) 0 0 no-repeat;
 	height: 139px;
