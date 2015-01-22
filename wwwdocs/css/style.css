@@ -137,11 +137,12 @@ form {
 
 }
 
-
+h2, h3, h4 {
+  font-weight: bold;
+}
 
 h2 {
   font-size: 22px;
-  font-weight: bold;
   color: #303030;
   margin-bottom: 8px;
 } 
@@ -149,10 +150,14 @@ h2 {
 h3 {
   color: #d5000d;
   font-size: 18px;
-  font-weight: bold;
   margin-bottom: 6px;
   margin-top: 6px;
 } 
+h4 {
+	font-size: 105%;
+  margin-bottom: 4px;
+  margin-top: 4px;
+}
  
 
 p {
