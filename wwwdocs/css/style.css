@@ -172,6 +172,15 @@ h4 {
 	display: block;
 	border-radius: 5px;
 }
+#sponsors h3 {
+	text-align: center;
+	background-color: #eb4;
+	display: block;
+	border-radius: 5px;
+	width: 70%;
+	padding: 0px;
+	margin-left: 10px;
+}
 #sponsors .icon {
 	max-width: 100%;
 }
