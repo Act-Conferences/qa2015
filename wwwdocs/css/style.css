@@ -205,7 +205,8 @@ a {
 }
 
 #content {
-	float: right;
+	float: left;
+	margin-left: 60px;
 	width: 700px;
 }
 
