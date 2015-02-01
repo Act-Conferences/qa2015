@@ -29,6 +29,11 @@
 
 <body>
 
+<div id="sponsors">
+<h2><a href="sponsors.html">Sponsors</a></h2>
+<a href="http://perl6.org"><img class="icon" src="qa2015/img/camelia-logo_225.png" width="225" alt="Perl 6" title="Perl 6"></a><br>
+</div>
+
 <div id="outer">
 <div id="berlin">
 <h1><a href="/qa2015">Perl QA Hackathon 2015</a></h1>

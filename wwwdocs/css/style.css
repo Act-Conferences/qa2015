@@ -65,8 +65,9 @@ td, th {
   background: transparent url(../img/highlight.jpg) 90% 0 no-repeat;
   min-height: 595px;
 	margin: 0pt auto;
-	min-width: 850px;
-	width: 70%;
+	min-width: 80%;
+	margin-left: 40px;
+	margin-right: 40px;
 }
 .inner {
   min-width: 220px;
@@ -159,6 +160,21 @@ h4 {
   margin-top: 4px;
 }
  
+#sponsors {
+	margin-top: 130px;
+	margin-right: 20px;
+	width: 160px;
+	float: right;
+}
+#sponsors h2 {
+	text-align: center;
+	background-color: #aaa;
+	display: block;
+	border-radius: 5px;
+}
+#sponsors .icon {
+	max-width: 100%;
+}
 
 p {
   font-weight: 300;
