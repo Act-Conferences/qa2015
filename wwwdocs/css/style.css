@@ -161,16 +161,21 @@ h4 {
 }
  
 #sponsors {
-	margin-top: 130px;
+	margin-top: 145px;
 	margin-right: 20px;
-	width: 160px;
+	width: 220px;
+	border: 1px solid #ccc;
 	float: right;
+	text-align: center;
+	border-radius: 5px;
 }
 #sponsors h2 {
 	text-align: center;
 	background-color: #aaa;
 	display: block;
 	border-radius: 5px;
+	margin: 2px auto;
+	width: 80%;
 }
 #sponsors h3 {
 	text-align: center;
@@ -179,7 +184,7 @@ h4 {
 	border-radius: 5px;
 	width: 70%;
 	padding: 0px;
-	margin-left: 10px;
+	margin: 0 auto;
 }
 #sponsors .icon {
 	max-width: 100%;
