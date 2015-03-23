@@ -221,7 +221,7 @@ a {
 #content {
 	float: left;
 	margin-left: 60px;
-	width: 700px;
+	width: calc(100% - 450px);
 }
 
 #footer {
